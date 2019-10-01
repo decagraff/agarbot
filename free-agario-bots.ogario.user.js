@@ -44,3 +44,4 @@ GM_xmlhttpRequest({
         else alert('Outdated client version, join our discord server to get latest version: https://discord.gg/SDMNEcJ.  Are you using the latest version and still get this message? Try clearing cache or wait for the website to be updated.')
     }
 })
+
